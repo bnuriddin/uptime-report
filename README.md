@@ -2,4 +2,3 @@
 
 
 uptime
-uptime
